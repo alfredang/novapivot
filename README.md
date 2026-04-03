@@ -172,6 +172,8 @@ For questions or ideas, open a [Discussion](https://github.com/alfredang/novapiv
 - Visual design inspired by [NovaSPC](https://github.com/alfredang/novaspc)
 - Typography by [Inter](https://rsms.me/inter/)
 
+Powered by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg/)
+
 ---
 
 If you found this useful, please consider giving it a ⭐
